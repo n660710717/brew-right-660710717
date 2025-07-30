@@ -1,0 +1,32 @@
+[33mcommit 2981d6ab1bd96c251523351a811ed51e44fdb370[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlab/week3[m[33m)[m
+Author: NARUEMON WERUWIRIYAKUL <weruwiriyakul_n@su.ac.th>
+Date:   Wed Jul 23 09:10:19 2025 +0000
+
+    Add Week 3 Data Ingestion and Bronze Layer implementation
+
+[33mcommit e03a46d53f6f803c8d0b3f1ac9b92c20ba2404f8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a0dc8fc 4b39a1a
+Author: NARUEMON WERUWIRIYAKUL <weruwiriyakul_n@su.ac.th>
+Date:   Fri Jul 18 22:00:49 2025 +0700
+
+    Merge pull request #1 from n660710717/lab/week2
+    
+    add Hello World Docker setup
+
+[33mcommit 4b39a1a0291406d144ba7a7dce81ae0bc5cf9cf6[m[33m ([m[1;31morigin/lab/week2[m[33m)[m
+Author: NARUEMON WERUWIRIYAKUL <weruwiriyakul_n@su.ac.th>
+Date:   Fri Jul 18 14:51:57 2025 +0000
+
+    add Hello World Docker setup
+
+[33mcommit a0dc8fc373966d7df6c2885083714b04eb4ae092[m
+Author: NARUEMON WERUWIRIYAKUL <weruwiriyakul_n@su.ac.th>
+Date:   Fri Jul 18 13:27:44 2025 +0000
+
+    run notebook ok
+
+[33mcommit dc280b5a0d922cc21c979a38f9a534715a171788[m
+Author: NARUEMON WERUWIRIYAKUL <weruwiriyakul_n@su.ac.th>
+Date:   Fri Jul 18 19:51:51 2025 +0700
+
+    Initial commit
