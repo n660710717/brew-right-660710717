@@ -1,6 +1,6 @@
 -- Read CSV
 CREATE OR REPLACE TABLE sales AS
-SELECT * FROM read_csv_auto('data/sales.csv');
+SELECT * FROM read_csv_auto('data_csv/sales.csv');
 
 -- 1) Normalize types
 CREATE OR REPLACE TABLE daily_sales AS
